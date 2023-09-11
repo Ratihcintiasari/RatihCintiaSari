@@ -1,20 +1,3 @@
-(BAGIAN 1)
-# Dari praktikum yang kemarin dipelajari, kami mahasiswa angkatan 2022 diajarkan :
-1. Membuat akun github 
-2. Membuat repository untuk memperbagus profile github nya
-3. Menghubungkan github yang dimiliki mahasiswa dengan vscode 
-4. Menghubungkan vscode dengan gitbash yang mahasiswa miliki
-4. Mencoba beberapa fitur gitbash di vscode 
-5. Mencoba mengupload repository baru 
-
-# Hal yang masih dibingungkan 
-1. Apakah setiap membuat repository baru perlu menambahkan file baru ke local disk C laptop?
-2. Apakah untuk praktikum metkom ini seterusnya akan memakai github? sementara yang diajarkan sama pak kaka itu pengaplikasiannya beda.
-3. Penggunaan fungsi semacam (git clone git status) itu apakah akan selalu digunakan terus atau tergantung keperluannya saja?
-
-
-(BAGIAN 2 Create your profile README.) 
-
 # HELLO WORLD!
 # Ratih Cintia Sari
 

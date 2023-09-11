@@ -1,7 +1,9 @@
 
 # HELLO WORLD!
 # Ratih Cintia Sari
-Student in Geophysics UGM since 2022.
+:footprints: My Friend call me ratih or atih/atie, but i like atih/atie cause it reminds me of my call from my mom.
+
+:woman_student: I'm student in Geophysics UGM since 2022.
 * Current Busyness
 - [x] :woman_technologist: Staff madya advocacy ministry, BEM KM FMIPA UGM
 - [x] :woman_office_worker: Staff Social Community, HMGF UGM

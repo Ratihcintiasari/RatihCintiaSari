@@ -21,5 +21,6 @@
 
 # Happy to know u guys :wave:
 
+[![instagram Badge](https://img.shields.io/badge/ratihcntiia-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ratihcntiia) [![spotify Badge](https://img.shields.io/badge/heijiatie-%23E4405F.svg?style=flat&logo=spotify&logoColor=white)](https://spotify.com/heijiatie) [![duolingo Badge](https://img.shields.io/badge/ratiejat-%23E4405F.svg?style=flat&logo=duolingo&logoColor=white)](https://duolingo.com/ratiejat)
 
 

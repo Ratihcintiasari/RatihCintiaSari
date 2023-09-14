@@ -6,7 +6,8 @@
 👩‍🎓 I'm student in Geophysics UGM since 2022.
 
 * Current Busyness
- 🧎‍♀️ Student in Geophysics UGM
+
+🧎‍♀️ Student in Geophysics UGM
 
  👩‍💻 Staff madya advocacy ministry, BEM KM FMIPA UGM
 

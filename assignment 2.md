@@ -206,11 +206,11 @@ for orang in orang_diantara_22_dan_30:
     print(f"BB: {orang['BB']} kg")
     
     
-    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000544.png)
+![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000544.png)
     
-    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000610.png)
+![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000610.png)
     
-    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000625.png)
+![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000625.png)
 
-    
+
 

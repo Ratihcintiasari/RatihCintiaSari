@@ -14,6 +14,8 @@ a=float(input('masukan massa:'))
 
    print('Ek=', b)
 
+   ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000119.png)
+
 
 
 #rumus gaya gravitasi
@@ -27,6 +29,8 @@ a=float(input('masukan m1:'))
    b=6,7*10^2*a*t*g**2
 
    print('F=', b)
+
+   ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000238.png)
 
 
 
@@ -42,6 +46,8 @@ a=float(input('masukan v0:'))
    b=a*t*1/2*g*t**2
 
    print('S=', b)
+
+   ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000257.png)
 
 
 
@@ -101,6 +107,13 @@ a=(input('nilai: '))
 else:
 
    print('not found')
+
+   ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000410.png)
+   
+   
+   ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000435.png)
+
+
 
 
 
@@ -191,23 +204,13 @@ for orang in orang_diantara_22_dan_30:
     print(f"TB: {orang['TB']} cm") 
 
     print(f"BB: {orang['BB']} kg")
+    
+    
+    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000544.png)
+    
+    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000610.png)
+    
+    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000625.png)
 
-
-#screenshoot bukti berhasil kode di run
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000119.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000238.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000257.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000410.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000435.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000544.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000610.png)
-
-![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000625.png)
+    
 

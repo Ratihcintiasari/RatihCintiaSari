@@ -1,10 +1,10 @@
-#soal pertama 
+# soal pertama 
 
-#pertanyaan : 
+# pertanyaan : 
 
-#Buatlah 3 rumus fisika dasar dan operasikan rumus tersebut berdasarkan input yang kalian tentukan sendiri
+# Buatlah 3 rumus fisika dasar dan operasikan rumus tersebut berdasarkan input yang kalian tentukan sendiri
 
-#rumus energi kinetik
+* rumus energi kinetik
 
 a=float(input('masukan massa:'))
 
@@ -18,7 +18,7 @@ a=float(input('masukan massa:'))
 
 
 
-#rumus gaya gravitasi
+* rumus gaya gravitasi
 
 a=float(input('masukan m1:'))
 
@@ -35,7 +35,7 @@ a=float(input('masukan m1:'))
 
 
 
-#rumus jarak yang ditempuh (m)
+* rumus jarak yang ditempuh (m)
 
 a=float(input('masukan v0:'))
 
@@ -53,9 +53,9 @@ a=float(input('masukan v0:'))
 
 
 
-#soal kedua 
+# soal kedua 
 
-#pertanyaan : Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
+# pertanyaan : Cobalah buat perumpamaan (if-else) dengan permasalahan sederhana.
 
 
 a=(input('nilai: '))
@@ -119,9 +119,9 @@ else:
 
 
 
-#soal ketiga
+# soal ketiga
 
-#pertanyaan : Buatlah list sederhana berisikan minimal data diri 20 orang random yang berisi [Nama, Umur, TB, BB]. Kemudian lakukan operasi if-else sederhana untuk memfilter data dari list orang-orang yang anda buat.
+# pertanyaan : Buatlah list sederhana berisikan minimal data diri 20 orang random yang berisi [Nama, Umur, TB, BB]. Kemudian lakukan operasi if-else sederhana untuk memfilter data dari list orang-orang yang anda buat.
 
 data_orang = [
 

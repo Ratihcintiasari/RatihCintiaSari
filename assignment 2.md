@@ -8,11 +8,11 @@
 
 a=float(input('masukan massa:'))
 
-t=float(input('masukan volume:'))
+   t=float(input('masukan volume:'))
 
-b=0.5*a*t**2
+   b=0.5*a*t**2
 
-print('Ek=', b)
+   print('Ek=', b)
 
 
 
@@ -20,13 +20,13 @@ print('Ek=', b)
 
 a=float(input('masukan m1:'))
 
-t=float(input('masukan m2:'))
+   t=float(input('masukan m2:'))
 
-g=float(input('masukan R:'))
+   g=float(input('masukan R:'))
 
-b=6,7*10^2*a*t*g**2
+   b=6,7*10^2*a*t*g**2
 
-print('F=', b)
+   print('F=', b)
 
 
 
@@ -35,13 +35,13 @@ print('F=', b)
 
 a=float(input('masukan v0:'))
 
-t=float(input('masukan t:'))
+   t=float(input('masukan t:'))
 
-g=float(input('masukan a:'))
+   g=float(input('masukan a:'))
 
-b=a*t*1/2*g*t**2
+   b=a*t*1/2*g*t**2
 
-print('S=', b)
+   print('S=', b)
 
 
 
@@ -54,53 +54,53 @@ print('S=', b)
 
 a=(input('nilai: '))
 
-if a == 'AB':
+  if a == 'AB':
 
-  print ('DI Yogyakarta')
+   print ('DI Yogyakarta')
 
-elif a == 'D':
+ elif a == 'D':
 
-  print ('Bandung')
+   print ('Bandung')
 
-elif a == 'B':
+ elif a == 'B':
 
-  print ('DKI Jakarta')
+   print ('DKI Jakarta')
 
-elif a == 'A':
+ elif a == 'A':
 
-  print ('Banten')
+   print ('Banten')
 
-elif a == 'E':
+ elif a == 'E':
 
-  print ('Cirebon, Indramayu, Majalengka dan Kuningan')
+   print ('Cirebon, Indramayu, Majalengka dan Kuningan')
 
-elif a == 'E':
+ elif a == 'E':
 
-  print ('Bogor')
+   print ('Bogor')
 
-elif a == 'T':
+ elif a == 'T':
 
-  print ('Purwakarta, Karawang, Subang')
+   print ('Purwakarta, Karawang, Subang')
 
-elif a == 'Z':
+ elif a == 'Z':
 
-  print ('Garut, Tasikmalaya, Sumedang, Ciamis, dan Banjar')
+   print ('Garut, Tasikmalaya, Sumedang, Ciamis, dan Banjar')
 
-elif a == 'H':
+ elif a == 'H':
 
-  print ('Semarang dengan Salatiga, Kendal, dan Demak')
+   print ('Semarang dengan Salatiga, Kendal, dan Demak')
 
-elif a == 'L':
+ elif a == 'L':
 
-  print ('Surabaya')
+   print ('Surabaya')
 
-elif a == 'W':
+ elif a == 'W':
 
-  print ('Sidoarjo dan Gresik')
+   print ('Sidoarjo dan Gresik')
 
 else:
 
-  print('not found')
+   print('not found')
 
 
 
@@ -189,7 +189,7 @@ for orang in orang_diantara_22_dan_30:
     print(f"Umur: {orang['Umur']}") 
 
     print(f"TB: {orang['TB']} cm") 
-    
+
     print(f"BB: {orang['BB']} kg")
 
 

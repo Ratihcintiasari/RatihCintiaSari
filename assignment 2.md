@@ -64,49 +64,49 @@ a=(input('nilai: '))
 
      print ('DI Yogyakarta')
 
- elif a == 'D':
+     elif a == 'D':
 
-   print ('Bandung')
+     print ('Bandung')
 
- elif a == 'B':
+     elif a == 'B':
 
-   print ('DKI Jakarta')
+     print ('DKI Jakarta')
 
- elif a == 'A':
+     elif a == 'A':
 
-   print ('Banten')
+     print ('Banten')
 
- elif a == 'E':
+     elif a == 'E':
 
-   print ('Cirebon, Indramayu, Majalengka dan Kuningan')
+     print ('Cirebon, Indramayu, Majalengka dan Kuningan')
 
- elif a == 'E':
+     elif a == 'E':
 
-   print ('Bogor')
+     print ('Bogor')
 
- elif a == 'T':
+     elif a == 'T':
 
-   print ('Purwakarta, Karawang, Subang')
+      print ('Purwakarta, Karawang, Subang')
 
- elif a == 'Z':
+     elif a == 'Z':
 
-   print ('Garut, Tasikmalaya, Sumedang, Ciamis, dan Banjar')
+     print ('Garut, Tasikmalaya, Sumedang, Ciamis, dan Banjar')
 
- elif a == 'H':
+     elif a == 'H':
 
-   print ('Semarang dengan Salatiga, Kendal, dan Demak')
+     print ('Semarang dengan Salatiga, Kendal, dan Demak')
 
- elif a == 'L':
+     elif a == 'L':
 
-   print ('Surabaya')
+     print ('Surabaya')
 
- elif a == 'W':
+     elif a == 'W':
 
-   print ('Sidoarjo dan Gresik')
+     print ('Sidoarjo dan Gresik')
 
-else:
+     else:
 
-   print('not found')
+     print('not found')
 
    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000410.png)
    

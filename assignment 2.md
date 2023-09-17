@@ -8,11 +8,11 @@
 
 a=float(input('masukan massa:'))
 
-   t=float(input('masukan volume:'))
+     t=float(input('masukan volume:'))
 
-   b=0.5*a*t**2
+     b=0.5*a*t**2
 
-   print('Ek=', b)
+     print('Ek=', b)
 
    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000119.png)
 
@@ -22,13 +22,13 @@ a=float(input('masukan massa:'))
 
 a=float(input('masukan m1:'))
 
-   t=float(input('masukan m2:'))
+     t=float(input('masukan m2:'))
 
-   g=float(input('masukan R:'))
+     g=float(input('masukan R:'))
 
-   b=6,7*10^2*a*t*g**2
+     b=6,7*10^2*a*t*g**2
 
-   print('F=', b)
+     print('F=', b)
 
    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000238.png)
 
@@ -39,13 +39,13 @@ a=float(input('masukan m1:'))
 
 a=float(input('masukan v0:'))
 
-   t=float(input('masukan t:'))
+     t=float(input('masukan t:'))
 
-   g=float(input('masukan a:'))
+     g=float(input('masukan a:'))
 
-   b=a*t*1/2*g*t**2
+     b=a*t*1/2*g*t**2
 
-   print('S=', b)
+     print('S=', b)
 
    ![Gambar](https://github.com/Ratihcintiasari/dokumentasi/blob/b5e5b916859bfb989541690cd47c7d44d884dc13/Screenshot%202023-09-15%20000257.png)
 
@@ -60,9 +60,9 @@ a=float(input('masukan v0:'))
 
 a=(input('nilai: '))
 
-  if a == 'AB':
+     if a == 'AB':
 
-   print ('DI Yogyakarta')
+     print ('DI Yogyakarta')
 
  elif a == 'D':
 
